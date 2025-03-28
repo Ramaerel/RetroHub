@@ -9,8 +9,6 @@ This site allows users to run and manage their ROMs, using EmulatorJS and the Re
 ## Disclaimer
 I will no longer be working on this project; this final update was purely me learning how to program better for my new project
 
-If you wish for functionality like this, but are unsure how to set it up yourself, check out ***[Temporus]***.
-
 ## Features
 
 ### Modern Game Library Interface
